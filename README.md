@@ -1,9 +1,9 @@
 # News-Website
 
-![image](https://aniketshah2002.github.io/news.github.io/)
+![image](https://raw.githubusercontent.com/aniketshah2002/news.github.io/refs/heads/main/assets/image2.jpg)
 
-![image](https://drive.google.com/file/d/1C3iNYQuKUZ3urPw9nw2CmWuNvg7IIcv6/view?usp=share_link)
+![image](https://raw.githubusercontent.com/aniketshah2002/news.github.io/refs/heads/main/assets/image1.jpg)
 
 ### Responsive News Website using HTML, CSS and JavaScript
 
-#### http://127.0.0.1:5500/index.html
+#### https://aniketshah2002.github.io/news.github.io/
